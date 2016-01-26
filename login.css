@@ -143,14 +143,15 @@ input[type="password"]:focus {
   border-radius: 4px;
   color: #777;
   font-size: 14px;
+  text-align: center;
 }
 
-/* line 110, scss/login.scss */
+/* line 111, scss/login.scss */
 .login #login_error {
   border: 1px solid #cc1e2b;
 }
 
-/* line 113, scss/login.scss */
+/* line 114, scss/login.scss */
 .wp-core-ui .button-primary {
   border: none;
   display: block;
@@ -167,7 +168,7 @@ input[type="password"]:focus {
   text-align: center;
   text-shadow: none;
 }
-/* line 128, scss/login.scss */
+/* line 129, scss/login.scss */
 .wp-core-ui .button-primary:hover {
   background-color: #329dd5;
   transition: all 0.2s ease;
