@@ -173,3 +173,26 @@ input[type="password"]:focus {
   background-color: #329dd5;
   transition: all 0.2s ease;
 }
+
+
+
+@media (max-width: 1068px) {
+	#login {
+		width: 48%;
+	}
+}
+@media (max-width: 733px) {
+	#login {
+		width: 60%;
+	}
+}
+@media (max-width: 550px) {
+	#login {
+		width: 80%;
+	}
+}
+@media (max-width: 320px) {
+	#login {
+		width: 96%;
+	}
+}
